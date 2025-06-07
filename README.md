@@ -1,6 +1,6 @@
-# 🛡️ Hasib – Cybersecurity Analyst
+# 🛡️ Me – Cybersecurity Analyst
 
-Hi, I’m Hasib — a cybersecurity student and aspiring analyst. I’m learning by doing: solving labs, writing scripts, and reporting bugs. I enjoy web security, Linux, and network analysis.
+Hi, I’m Hasib — a student and aspiring security analyst. Out of curiosity, I started hacking then it became addiction and now passion. I had to take it seriously so here I am!!
 
 This repo contains my writeups, tools, and weekly progress.
 
