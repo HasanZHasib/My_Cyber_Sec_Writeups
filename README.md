@@ -1,6 +1,3 @@
-# My_Cyber_Sec_Writeups
-Here I share my journey of cyber security once in a week. I am just keeping track of my learning and progress.
-
 # 🛡️ Hasib – Cybersecurity Analyst
 
 Hi, I’m Hasib — a cybersecurity student and aspiring analyst. I’m learning by doing: solving labs, writing scripts, and reporting bugs. I enjoy web security, Linux, and network analysis.
