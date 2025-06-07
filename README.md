@@ -1,6 +1,6 @@
 # 🛡️ Me – Cybersecurity Analyst
 
-Hi, I’m Hasib — a student and aspiring security analyst. Out of curiosity, I started hacking then it became addiction and now passion. I had to take it seriously so here I am!!
+Hi, I’m Hasib — a student and aspiring security analyst. What started out as curiosity turned into an addiction, and now it's a full-blown passion. I knew I had to take it seriously someday — so here I am!
 
 This repo contains my writeups, tools, and weekly progress.
 
